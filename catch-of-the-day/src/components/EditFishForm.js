@@ -1,5 +1,4 @@
 import React from 'react';
-import {formatPrice} from "../helpers";
 
 class EditFishForm extends React.Component {
     handleChange = (event) => {
